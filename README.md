@@ -1,8 +1,10 @@
 # Feature-Engineering
-Feature Engineering and Selection for a Time Series Forecasting. '/n'
-We perform the processing of feature generation of a time series dataset and then select the most relevant features for prediction 
-'n/'
+Feature Engineering and Selection for a Time Series Forecasting. <br/>
+We perform the processing of feature generation of a time series dataset and then select the most relevant features for prediction.
+
+
 We then further reduce the dimentionality of the features using Principal Component Analysis
+
 The features are generating from the close price of a time series stock for a specified period
 The following are the categories of features generated:
   Date Related Features
